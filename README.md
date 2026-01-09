@@ -1,4 +1,4 @@
-# Sneak-game (Snake Game)
+# Sneak-game
 
 I created this Snake game using the pygame module in Python. This project demonstrates basic game design logic and applies concepts from computer graphics. While building and playing the game I enjoyed the process — it’s a simple, fun, and educational project.
 
@@ -12,8 +12,6 @@ I created this Snake game using the pygame module in Python. This project demons
 - [How to play](#how-to-play)
 - [Development notes](#development-notes)
 - [Contribution](#contribution)
-- [License](#license)
-- [Author](#author)
 
 ## Demo screenshots
 
@@ -82,10 +80,5 @@ If you plan to modify the game, look for the main loop (usually in `main.py` or 
 ## Contribution
 Contributions, issues, and feature requests are welcome. Feel free to open a pull request or issue describing your proposed change.
 
-## License
-This project is provided under the MIT License (or change to your preferred license).
-
-## Author
-- sunilpy-dev
 
 Enjoy the game and happy coding!
